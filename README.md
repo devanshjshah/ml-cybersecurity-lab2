@@ -11,6 +11,7 @@ Download the files and place them in the working directory.
 
 ### Run the Jupyter Notebook
 Place the dataset and model files in the working directory and the code should be ready to run. 
+For generating the pruned models, adjust the threshold and run the file. 
 
 ### Results
 The results are stored in a table format in the pdf. 
